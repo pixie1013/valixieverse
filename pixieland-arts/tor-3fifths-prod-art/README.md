@@ -28,8 +28,10 @@ Four fish/creature studies — black ink. Top left: detailed catfish with spots 
 **moose-bighorn-red-ink.jpg**
 Two ungulates. Top: moose — loose, gestural, movement over detail. Bottom: bighorn sheep bust — careful crosshatching on fleece, horns rendered deliberately. Two modes, one page.
 
-**hands-creature-black-ink.jpg**
-Compositionally complex. Two large cupped hands holding something small and sharp — a creature or object in the center, dramatic hatching radiating outward. Whatever is held is dangerous or precious or both. His most finished-feeling piece in this batch.
+**hands-creature-black-ink.jpg** *(earlier photo of scorpion piece — see below)*
+
+**scorpion-in-shadow-black-ink.jpg**
+A scorpion emerging from shadow. What reads as two cupped hands are the pincers, curled forward. The small sharp shape in the center is the face, looking out. The stinger tip just crests above — the only part of the tail breaking the shadow line. Everything else — body, full tail, legs — swallowed in hatching. The shadow is not background. It's the subject. The piece is about concealment: you see only what wants to be seen. First read as "hands holding something precious." That's the piece working as intended.
 
 **mech-ram-red-ink.jpg**
 Ram skull fused with mechanical armor. Horns wrap the entire form into a spiral. Sits between two concrete barriers. Biology and fabrication indistinguishable from each other. A complete design concept.
