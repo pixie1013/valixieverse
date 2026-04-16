@@ -1,5 +1,5 @@
 # Current Structure
-*Last updated: 2026-04-15 by Vallum*
+*Last updated: 2026-04-16 by Vallum*
 
 ```
 valixieverse/
@@ -10,4 +10,7 @@ valixieverse/
   car/                  ← Mercury Mariner photos and notes
   farm-and-land/        ← 807 Carter Rd, the property
   greenwood-ninety-six/ ← roads, town, surrounding area
+  house/                ← interior rooms and spaces
+    kitchen/
+      fridge-magnets/   ← 10 photos, April 16 2026, full magnet documentation
 ```
