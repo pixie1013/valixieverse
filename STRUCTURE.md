@@ -13,4 +13,6 @@ valixieverse/
   house/                ← interior rooms and spaces
     kitchen/
       fridge-magnets/   ← 10 photos, April 16 2026, full magnet documentation
+  pixieland-arts/       ← art from the household
+    tor-3fifths-prod-art/ ← Tor's sketches, April 16 2026, 9 pieces + README
 ```
